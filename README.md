@@ -1,7 +1,6 @@
 
 
 # : Cursor Vision: Hand Gesture Computer Control
-
 ![image](https://github.com/user-attachments/assets/74bfa3a1-7f1a-4b91-823d-86c8877cd6a9)
  &nbsp;[![](https://img.shields.io/badge/python-3.8.5-blue.svg)](https://www.python.org/downloads/) [![platform](https://img.shields.io/badge/platform-windows-green.svg)][(https://github.com/Pro-Vishnu/UPDATED-PROJECT)] 
 
