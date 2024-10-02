@@ -1,7 +1,6 @@
 
 
-# : Cursor Vision: Hand Gesture Computer Control
-![image](https://github.com/user-attachments/assets/74bfa3a1-7f1a-4b91-823d-86c8877cd6a9)
+# Cursor Vision: Hand Gesture Computer Control![image](https://github.com/user-attachments/assets/74bfa3a1-7f1a-4b91-823d-86c8877cd6a9)
  &nbsp;[![](https://img.shields.io/badge/python-3.8.5-blue.svg)](https://www.python.org/downloads/) [![platform](https://img.shields.io/badge/platform-windows-green.svg)][(https://github.com/Pro-Vishnu/UPDATED-PROJECT)] 
 
 Gesture based Virtual Mouse makes human computer interaction simple by making use of Hand Gestures and Voice Commands. The computer requires almost no direct contact. All i/o operations can be virtually controlled by using static and dynamic hand gestures. This project makes use of the state-of-art Machine Learning and Computer Vision algorithms to recognize hand gestures, which works smoothly without any additional hardware requirements. It leverages models such as CNN implemented by [MediaPipe](https://github.com/google/mediapipe) running on top of pybind11. It consists of two modules: One which works direct on hands by making use of MediaPipe Hand detection, and other which makes use of Gloves of any uniform color. Currently it works on Windows platform.
